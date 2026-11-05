@@ -2,3 +2,8 @@ Roses are red,
 Violets are blue,
 Sugar is sweet,
 And so are you.
+
+The sun is shining,
+The sky is clear,
+Git tracks our words,
+Year after year.
