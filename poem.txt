@@ -7,3 +7,6 @@ The sun is shining,
 The sky is clear,
 Git tracks our words,
 Year after year.
+
+Branches diverge like paths in the wood,
+Testing new rhymes where the old poem stood.
